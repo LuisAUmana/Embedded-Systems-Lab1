@@ -1,6 +1,6 @@
 # Embedded-Systems-Lab1
 Assignment provided by Embedded Systems (ECGR 3101)
-This project was performed using a board EK-TM4C123GXL and Energia IDE
+This project was performed using a board EK-TM4C123GXL and Code Composer Studio
 
 Objective
 This project has multiple learning objectives.  After completing the lab, students will be able to use the GPIO peripheral for both inputs (switches) and outputs (LEDs).  Second, the lab explicitly requires the students to find some additional software needed and incorporate that into the project.  Third, this lab will expose students to the SysTick peripheral and how to use polling to create time delays.
