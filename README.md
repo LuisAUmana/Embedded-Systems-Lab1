@@ -1,4 +1,5 @@
 # Embedded-Systems-Lab1
+Assignment provided by Embedded Systems (ECGR 3101)
 This project was performed using a board EK-TM4C123GXL and Energia IDE
 
 Objective
